@@ -1,0 +1,11 @@
+{
+  "description": "Can know anyone information who studing computer science 1st year in Parul University by division wise or searching their names",
+  "repo": "https://github.com/iseshu/register",
+  "owner": {
+    "username": "iseshu",
+    "email": "saiseshu599@gmail.com"
+  },
+  "record": {
+    "CNAME": "puinfoweb.netlify.app/"
+  }
+}
